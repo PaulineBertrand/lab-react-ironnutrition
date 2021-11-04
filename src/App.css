@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.main-title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 30px;
+  text-align: left;  
+}
+
+.todays-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 20px;
+}
+
+.todays-column {
+  margin-left: 40px;
+  text-align: left;
+}
+
+.main {
+  margin: 50px 0px;
+}
